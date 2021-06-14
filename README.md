@@ -20,6 +20,7 @@ The usage is quite forward, most of the API will be provided by intellisense. He
         (new DiscordEmbed)
             ->title('Embed title')
             ->description('Embed description')
+            // The date expects a Carbon object, so the conversion will be done automatically for you
             ->date(now())
             // Colors values should be a hexadecimal integer
             // For example: red (#FF0000) would translate to 0xFF0000
