@@ -2,8 +2,8 @@
 
 namespace Flowframe\DiscordWebhook\Tests;
 
-use Orchestra\Testbench\TestCase as Orchestra;
 use Flowframe\DiscordWebhook\DiscordWebhookServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
