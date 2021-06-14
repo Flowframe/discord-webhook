@@ -1,4 +1,4 @@
-# Discord Webhooks for Laravel
+# Discord Webhook for Laravel
 
 This package provides a fluent API around Discord webhook messages for Laravel.
 
